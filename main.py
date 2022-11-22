@@ -114,6 +114,6 @@ class MainWindow(QMainWindow):
 
 
 app = QApplication(sys.argv)
-app.setApplicationName("Adi's Browser")
+app.setApplicationName("Gagan's Browser")
 window  = MainWindow()
 app.exec_()
